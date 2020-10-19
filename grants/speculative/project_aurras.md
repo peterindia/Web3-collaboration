@@ -16,11 +16,11 @@ With this grant, we intend to not only enable Project Aurras to use with Decentr
 
 ### Team members
 * Dr. C. Pethuru Raj Ph.D - Principal Advisor, Chief Architect and Vice-President, Site Reliability Engineering (SRE) Division - Reliance Jio Platforms Ltd.  
-* Muhammed Irfan K - Team Lead, Fullstack Developer, CTO & Co-Founder - HugoByte Labs  
-* Hanumantappa Budihal - Senior Developer, DevOps - HugoByte Labs  
-* Shanith K - Junior Developer - HugoByte Labs  
-* Binyamin Pazhery - Junior Developer - HugoByte Labs  
-* Ghandi Ananth - Junior Developer - HugoByte Labs  
+* Muhammed Irfan K - Team Lead, Fullstack Developer, CTO & Co-Founder - HugoByte AI Labs  
+* Hanumantappa Budihal - Solutions Architect, DevOps - HugoByte AI Labs  
+* Shanith K - Junior Developer - HugoByte AI Labs  
+* Binyamin Pazhery - Junior Developer - HugoByte AI Labs  
+* Ghandi Ananth - Junior Developer - HugoByte AI Labs  
 
 ### Team Website
 https://hugobyte.com
@@ -52,6 +52,7 @@ https://hugobyte.com
 ### Overview
 
 ### Architecture
+![](https://drive.google.com/uc?export=view&id=1Qk3B65AOVYaDLdxhFmvksZ6Zw2zKKzgX)
 
 ### Components
 1. Substrate Event Feed
@@ -60,7 +61,7 @@ https://hugobyte.com
 
 ### Technology
 1. Apache OpenWhisk
-2. Apache Pulsar
+2. Apache Kafka
 3. Docker
 4. Substrate
 5. Rust
