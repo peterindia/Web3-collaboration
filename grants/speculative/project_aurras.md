@@ -3,8 +3,7 @@
 ## Project Overview
 
 ### Project description
-Aurras as a part of decentralized push notification is a middleware that acts as an event processor which listens to the event from the blockchain and propagate to the registered pool of MQTT brokers. The broader architecture consist of parachain from which the middleware listens for the events.  
-With this grant, we intend to not only enable Project Aurras to use with Decentralized push notification architecture but also to enable IoT chains to use this tool to send events to IoT devices reliably using MQTT.  
+Aurras is a novel and next-generation middleware that acts as an event processor listening to any event from a blockchain database and then propagates it to the registered pool of MQTT brokers. This contributes as a part of the aspect of decentralized push notification. The broader architecture consist of parachain from which the middleware listens for the events.  With this grant, we intend to not only enable Project Aurras to use with Decentralized push notification architecture but also to enable IoT chains to use this tool to send events to IoT devices reliably using MQTT.  
 
 ### Values this project bringing to Substrate / Polkadot / Kusama ecosystem
 * Core part of Decentralized Push Notification Architecture  
